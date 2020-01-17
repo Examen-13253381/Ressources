@@ -1,0 +1,7 @@
+Techniques pour le développement d’interfaces
+1. Création de graphiques SVG
+Le contenu de la partie « Création de graphique SVG » sera pris de la page https://www.w3schools.com/graphics/svg_inhtml.asp  
+2. Usage de l’API vibration
+En se référant au document MDN relatif à l’API de vibration, vous êtes demandé de définir une description des vibrations. Le document auquel vous allez se référer est accessible par le lien : https://developer.mozilla.org/fr/docs/Web/API/Vibration_API
+3. Les gestionnaires d’événements tactiles
+• En ce qui concerne les événements tactiles, exploiter le contenu rendu par la page https://developer.mozilla.org/fr/docs/Web/Guide/DOM/Events/Touch_events 
